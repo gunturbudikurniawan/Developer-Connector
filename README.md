@@ -28,6 +28,10 @@ http://localhost:7000
 ## Register
 ![Screenshot from 2020-08-04 13-13-30](https://user-images.githubusercontent.com/68315330/89264164-a910b080-d65c-11ea-9707-5332c2b6c331.png)
 
+## Dashboard 
+![Screenshot from 2020-08-04 13-13-17](https://user-images.githubusercontent.com/68315330/89264248-ce052380-d65c-11ea-8310-26a53917c851.png)
+
+
 
 
 
