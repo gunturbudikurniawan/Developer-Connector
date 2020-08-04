@@ -34,6 +34,10 @@ http://localhost:7000
 ## Get Profile Developer
 ![Screenshot from 2020-08-04 13-13-25](https://user-images.githubusercontent.com/68315330/89264359-f856e100-d65c-11ea-8e41-26eb3404bd11.png)
 
+## Edit Profile
+![Screenshot from 2020-08-04 14-17-54](https://user-images.githubusercontent.com/68315330/89264660-7f0bbe00-d65d-11ea-8a89-eeedc39ec0cc.png)
+
+
 
 
 
