@@ -34,6 +34,13 @@ http://localhost:7000
 ## Profile Developer
 ![Screenshot from 2020-08-04 13-13-25](https://user-images.githubusercontent.com/68315330/89264359-f856e100-d65c-11ea-8e41-26eb3404bd11.png)
 
+## Add Education
+![Screenshot from 2020-08-04 14-18-21](https://user-images.githubusercontent.com/68315330/89264795-bb3f1e80-d65d-11ea-85f3-bef3e5749321.png)
+
+## Add Post,Delete,Like,Unlike
+![Screenshot from 2020-08-04 14-18-41](https://user-images.githubusercontent.com/68315330/89264899-e7f33600-d65d-11ea-8d13-1ccb28805633.png)
+
+
 ## Add Experience
 ![Screenshot from 2020-08-04 14-18-21](https://user-images.githubusercontent.com/68315330/89264795-bb3f1e80-d65d-11ea-85f3-bef3e5749321.png)
 
