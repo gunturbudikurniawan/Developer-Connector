@@ -25,6 +25,10 @@ http://localhost:7000
 ## Login
 ![Screenshot from 2020-08-04 13-13-34](https://user-images.githubusercontent.com/68315330/89264026-723a9a80-d65c-11ea-97b2-4bf41682b9a2.png)
 
+## Register
+![Screenshot from 2020-08-04 13-13-30](https://user-images.githubusercontent.com/68315330/89264164-a910b080-d65c-11ea-9707-5332c2b6c331.png)
+
+
 
 
 
