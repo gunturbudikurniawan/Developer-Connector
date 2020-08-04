@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://gunturbk16:gunturbk16@devconnect.fvt0r.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecret",
+  "githubClientId": "d9b2c49bb1d9644d95b7",
+  "githubSecret": "    643bb1a74fcf0e89a60397a2a357a3da65970dd1"
+}
