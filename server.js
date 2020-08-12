@@ -2,7 +2,6 @@ const express = require("express");
 const connectDB = require("./config/db");
 const path = require("path");
 const app = express();
-
 connectDB();
 
 app.use(express.json({ extended: false }));
@@ -19,6 +18,7 @@ if (process.env.NODE_ENV === "production") {
   });
 }
 // https://arcane-beach-24030.herokuapp.com/
+// https://devconnector16.netlify.app/
 const PORT = process.env.PORT || 7000;
 
 app.listen(PORT, () => console.log(`Server Listening on port ${PORT}`));
